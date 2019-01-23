@@ -5,4 +5,5 @@ def my_select(collection)
  if yield(array[i])
  end
  i += 1
+ end
 end
