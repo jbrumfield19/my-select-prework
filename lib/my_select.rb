@@ -1,3 +1,6 @@
 def my_select(collection)
- # your code here!
+ selectiveArray = []
+ while i < array.length
+ if yield(array[i])
+ 
 end
